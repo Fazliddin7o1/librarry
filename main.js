@@ -45,3 +45,11 @@ addBookButton.addEventListener('click', () => {
     document.getElementById('book-title').value = '';
     document.getElementById('author').value = '';
 });
+
+
+
+
+
+
+
+
